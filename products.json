@@ -1,0 +1,9 @@
+{
+  "products": [
+    { "id": 1, "name": "Bananas", "price": 0.99 },
+    { "id": 2, "name": "Mango", "price": 6.99 },
+    { "id": 3, "name": "Apples", "price": 3.88 },
+    { "id": 4, "name": "White Bread", "price": 9.99 },
+    { "id": 5, "name": "Brown Bread", "price": 7.66 }
+  ]
+}
